@@ -1,8 +1,1 @@
-
-<!DOCTYPE html>
-<html>
-  <body>
-    <h3>PhotoPoem app-ads.txt (google.com, pub-2333384510234937, DIRECT, f08c47fec0942fa0) hosted here</h3>
-  </body>
-</html>
-
+google.com, pub-2333384510234937, DIRECT, f08c47fec0942fa0
